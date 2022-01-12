@@ -1,5 +1,5 @@
 // Set your API key here
-const APIKEY = 'onemillionwallets';
+const APIKEY = 'myapikeyy';
 
 function getData() {
     // Get key HTML elements and reset table content
